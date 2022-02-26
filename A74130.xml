@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act prohibiting correspondence with Charls Stuart or his party.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74130</idno>
+            <idno type="STC">Wing E1149</idno>
+            <idno type="STC">Thomason 669.f.16[19]</idno>
+            <idno type="EEBO-CITATION">99870065</idno>
+            <idno type="PROQUEST">99870065</idno>
+            <idno type="VID">163176</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163176)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f16[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act prohibiting correspondence with Charls Stuart or his party.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order to print dated: Tuesday the 12th of August. 1651. Signed: Hen: Scobell, Cleric. Parliamenti.</note>
+                  <note>With Parliamentary seal at head of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:163176:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure> AN ACT Prohibiting Correſpondence with <hi>CHARLS ST<g ref="char:V">Ʋ</g>ART</hi> or his Party.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas certain Engliſh Fugitives gathering themſelves together in the parts of <hi>Scotland,</hi> did heretofore perfidiouſly and traiterouſly Aſsiſt the Enemies and Invaders of this Commonwealth, endeavoring with Forreigners and per<g ref="char:EOLhyphen"/>ſons of deſperate condition, to bring a War upon their Native Countrey; and in order thereunto, did ſet up for their Head <hi>Charls Stuart,</hi> calling him their King, who had formerly been declared a Traitor to the Parliament and Peo<g ref="char:EOLhyphen"/>ple of <hi>England;</hi> And whereas afterwards, to divert the ſad Calamities thereby likely to en<g ref="char:EOLhyphen"/>ſue within the bowels of this Land, It pleaſed the Lord to direct the Parliament of this Commonwealth to ſend an Army into <hi>Scotland,</hi> and to afford them his gracious Aſsiſt<g ref="char:EOLhyphen"/>ance and Bleſsing in ſo wonderful a maner, that a good part of <hi>Scotland</hi> is become within the Power of this Commonwealth; and the ſaid <hi>Charls Stuart</hi> with his Complices, the Re<g ref="char:EOLhyphen"/>mainder of his Party, finding their own weakneſs and diſability to continue longer in that Countrey, are now fled into <hi>England:</hi> For prevention therefore of the Miſchiefs which may befal divers of the good People of this Nation, in caſe the ſaid Fugitives be not time<g ref="char:EOLhyphen"/>ly overtaken by the Engliſh Army; And to the end all perſons may be further warned, The Parliament of the Commonwealth of <hi>England</hi> have thought fit to Enact and Declare, and do hereby Enact and Declare, That no perſon whatſoever do preſume to hold any Corre<g ref="char:EOLhyphen"/>ſpondence with the ſaid <hi>Charls Stuart,</hi> or with his Party, or with any of them, nor give any Intelligence to them, or to any of them, nor Countenance, Encourage, Abet, Adhere to, or Aſsiſt them or any of them, nor do voluntarily afford or deliver, or cauſe to be afforded or delivered to them or any of them, any Victuals, Proviſions, Arms, Ammunition, Hor<g ref="char:EOLhyphen"/>ſes, Plate, Money, Men, or any other Relief whatſoever, under pain of High Treaſon. And the Parliament doth hereby Command all perſons to uſe their Endeavors to hinder and ſtop the March and Paſſage of the ſaid <hi>Charls Stuart</hi> and his Party, and of every of them, and to Reſiſt and Oppoſe them according to ſuch Orders and Directions as they ſhall receive from the Parliament, or from the Councel of State appointed by Authority of Par<g ref="char:EOLhyphen"/>liament, or from the General of the Forces of this Commonwealth, or from ſuch other per<g ref="char:EOLhyphen"/>ſons as ſhall be thereunto Authorized by them or any of them. And it is further Enacted by the Authority aforeſaid, That whoſoever ſhall offend againſt this Act and Declaration, ſhall or may be proceeded againſt by a Councel of War, who are hereby Authorized to hear and determine all and every the ſaid Offences; and ſuch as ſhall by the ſaid Councel be con<g ref="char:EOLhyphen"/>demned to ſuffer Death, ſhall alſo forfeit all his and their Lands, Goods and other Eſtate, as in caſe of High Treaſon. Provided, That no perſon ſhall be proceeded againſt by any Court-Martial or Councel of War for any Offence done againſt this Act, unleſs ſuch perſon be proceeded againſt, and convicted of ſuch Offence within three Moneths after ſuch Of<g ref="char:EOLhyphen"/>fence committed. Provided, That this Act continue in force till the Firſt day of <hi>December,</hi> One thouſand ſix hundred fifty one, and no longer. Provided alſo, and it is hereby Decla<g ref="char:EOLhyphen"/>red, That any perſon or perſons who ſhall not be tryed by a Court-Martial or Councel of War, for any Offence committed contrary to this Act, ſhall and may at any time after the ſaid three Moneths, be proceeded againſt for ſuch Offence, according to the Laws of this Commonwealth, as if this Act had never been made.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Tueſday the <hi>12<hi rend="sup">th</hi>
+                        </hi> of <hi>Auguſt. 1651.</hi>
+                     </hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Parliament, That this Act be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1651.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
